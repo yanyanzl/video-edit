@@ -1,4 +1,4 @@
-# video-edit
+# open source video edit tools
 video edit related tools
 
 ## subtitle tool: generate multi-language subtitle file (.srt) from seperate language files
