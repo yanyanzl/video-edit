@@ -8,4 +8,6 @@ video edit related tools
   - in this non-GUI version, you have to name the batch of files according to the rules:
   - executable file multitle
   - source code file multitle.py
-  - example: put base_language1.srt and added_language1.srt under the same directory of multitle executable. double click to run multitle executable. then the multi-language subtitle will be generated. 
+  - example: put base_language1.srt and added_language1.srt under the same directory of multitle executable. double click to run multitle executable. then the multi-language subtitle will be generated.
+
+### welcome any new requirements or feedback. please contact or comments directly
